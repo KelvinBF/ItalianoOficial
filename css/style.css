@@ -80,12 +80,9 @@ p.lead {
 }
 
 .light-bg {
-<<<<<<< HEAD
     background-color: #000000;
 
-=======
-    background-color:#fff;
->>>>>>> parent of 7b8fdec... Assinatura
+    background-color:#000000;
 }
 
 .section {
@@ -310,7 +307,7 @@ header {
 ----------------------*/
 
 .social-icons {
-    text-align: right;
+    text-align: center;
     background-color: black;
 }
 
@@ -330,10 +327,10 @@ header {
 
   .whatsapp {
     position: fixed;
-    top: 82%;
+    top: 80%;
     right: 1%;
-    padding: 10px;
-    z-index: 10000000;
+    padding: 8px;
+    z-index: 10000;
 }
 
 
